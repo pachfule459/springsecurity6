@@ -1,9 +1,9 @@
 # Spring Security Zero to Master along with JWT,OAUTH2
 
 
-'Spring Security Zero to Master' course will help in understanding the Spring Security Architecture, important packages, interfaces, classes inside it which handles authentication and authorization requests in the web applications. It also covers most common security related topics like CORs, CSRF, JWT, OAUTH2, password management, method level security, user, roles & authorities management inside web applications.
+'Spring Security Zero to Master' project will help in understanding the Spring Security Architecture, important packages, interfaces, classes inside it which handles authentication and authorization requests in the web applications. It also covers most common security related topics like CORs, CSRF, JWT, OAUTH2, password management, method level security, user, roles & authorities management inside web applications.
 
-## Topics covered in the course
+## Topics covered in the project
 
 * Spring Security framework details and it features
 * How to adapt security for a Java web application using Spring Security
@@ -20,7 +20,7 @@
 * Social Login integrations into web applications
 * Set up of Authorization Server using KeyCloak, Spring Authorization Server 
 
-## Pre-requisite for the course
+## Pre-requisite for the project
 - Good understanding on Java and Spring concepts
 - Basic understanding on SpringBoot & REST services is a bonus but not mandatory
 - Interest to learn and explore about Spring Security
@@ -45,7 +45,7 @@
 - Keycloak official documentation - https://www.keycloak.org/documentation
 - Keycloak Admin REST APIs - https://www.keycloak.org/docs-api/latest/rest-api/index.html
 
-## Commands used in the course
+## Commands used in the project
 
 |     Command       |     Description          |
 | ------------- | ------------- |
