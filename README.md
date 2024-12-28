@@ -44,6 +44,10 @@
 - Angular Keycloak library - https://www.npmjs.com/package/keycloak-angular
 - Keycloak official documentation - https://www.keycloak.org/documentation
 - Keycloak Admin REST APIs - https://www.keycloak.org/docs-api/latest/rest-api/index.html
+- Contact - +91 86689 22617
+- Email - [Email me](mailto:pachfule459@gmail.com)
+- LinkedIn - https://www.linkedin.com/in/prasad-pachpule-3bb325163/
+- GitHub - https://github.com/pachfule459/springsecurity6
 
 ## Commands used in the project
 
